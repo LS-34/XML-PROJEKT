@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Untitled-1.xsl"?>
+<Filmovi>
+  <Navigacija>
+    <lista>
+      <poveznice>Home</poveznice>
+    </lista>
+  </Navigacija>
+  <Navigacija>
+    <lista>
+      <poveznice>>Upcoming</poveznice>
+    </lista>
+  </Navigacija>
+  <Navigacija>
+    <lista>
+      <poveznice>Top 9</poveznice>
+    </lista>
+  </Navigacija>
+  <Naslov>TOP 9 Movies of ALL time </Naslov>
+  <Podnaslov>DOWNLOADS.COM </Podnaslov>
+  <Film>
+  
+    <NaslovFilma>Lord of the Rings</NaslovFilma>
+    <Ocjena>IMDB RATING: 8.9</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+  </Film>
+    
+  
+  <Film>
+    
+    <NaslovFilma>Schindler's list</NaslovFilma>
+    <Ocjena>IMDB RATING: 8.9</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+  </Film>
+  <Film>
+    
+    <NaslovFilma>The Godfather part II</NaslovFilma>
+    <Ocjena>IMDB RATING: 9.0</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+    
+  </Film>
+  <Film>
+    <NaslovFilma>The Shawshank redemption</NaslovFilma>
+    <Ocjena>IMDB RATING: 9.2</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+    
+  </Film>
+  <Film>
+  
+    <NaslovFilma>The Godfather</NaslovFilma>
+    <Ocjena>IMDB RATING: 9.2</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+    
+  </Film>
+  <Film>
+    
+    <NaslovFilma>The Dark Knight</NaslovFilma>
+    <Ocjena>IMDB RATING: 9.0</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+    
+  </Film>
+  <Film>
+    
+    <NaslovFilma>12 Angry men</NaslovFilma>
+    <Ocjena>IMDB RATING: 8.9</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+    
+  </Film>
+  <Film>
+  
+    <NaslovFilma>The Shining</NaslovFilma>
+    <Ocjena>IMDB RATING: 8.4</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+    
+  </Film>
+  <Film>
+    
+    <NaslovFilma>The Silence of the lambs</NaslovFilma>
+    <Ocjena>IMDB RATING: 8.6</Ocjena>
+    <DownloadGumb>DOWNLOAD </DownloadGumb>
+    
+  </Film>
+</Filmovi>

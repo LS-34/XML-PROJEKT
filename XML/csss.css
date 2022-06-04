@@ -1,0 +1,93 @@
+
+body {
+    background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(184, 184, 184));
+
+    color:white;
+}
+.dwn{
+    font-size: 24px;
+}
+
+.navig{
+    padding:40px;
+    list-style-type:none;
+    max-width: 10%;
+    position: fixed;
+    background-image: Radial-gradient(rgb(160, 158, 158) , rgb(51, 51, 51));;
+    
+    
+}
+
+button{
+    border-style: solid;
+    border-color:#7c0f0f;
+    background-image: linear-gradient(to left, rgb(0, 0, 0) , rgb(75, 75, 75));;
+    color: #7c0f0f;
+    padding:20px;
+    border-radius: 25%;
+    
+}
+button:hover{
+    border-color:grey;
+    background-color: #7c0f0f;
+    color:white;
+}
+.gornji{
+    background-image:linear-gradient(to left, rgb(0, 0, 0) , rgb(75, 75, 75)) ;
+    text-align:center;
+}
+.prvi{
+    padding-top: 15px;
+    border-width: 12px;
+    
+    
+    max-width: 28%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.donje{
+    
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+.slika{
+
+    width: 220px;
+    height: 350px;
+    border-style: solid;
+    border-color:#7c0f0f;
+}
+p{
+    font-size: 32px;
+}
+.vl {
+    
+    height:100% ;
+  }
+a:link {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a{
+    font-size: 24px;
+}
